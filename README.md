@@ -11,7 +11,4 @@ This robotic car uses the UDP protocol for fast and efficient wireless control. 
 6. Robot chassis
 7. Power supply Board
 ## BLOCK DIAGRAM
-![blockdiagram](https://github.com/EmildaBabu/pedestrian-crossing-system/blob/76f119826ea9ddd5493840dd3e08ced00e4e9d4c/blockdiagram.JPG)
-
-## LINKEDIN
-[Working demo](https://www.linkedin.com/posts/emildababu_smart-pedestrian-crossing-the-smart-pedestrian-activity-7294728905268080642-HXuT?utm_source=share&utm_medium=member_android&rcm=ACoAAESb094BLLgjC4CNOMXZxE2eOt9Lr_BX71E)
+![blockdiagram](https://github.com/EmildaBabu/Robocar/blob/c759118c2dba742660804d15cc8b1e158f7b8add/projectblockdiagram.jpg)
