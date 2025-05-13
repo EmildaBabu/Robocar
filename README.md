@@ -6,7 +6,7 @@ This robotic car uses the UDP protocol for fast and efficient wireless control. 
 1. ESP32
 2. Dual shaft motor - 2
 3. Ultrasonic sensor
-4. L293D module(DC motor control)
+4. L293 module(DC motor control)
 5. Buzzer
 6. Robot chassis
 7. Power supply Board
