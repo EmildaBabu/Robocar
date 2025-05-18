@@ -31,7 +31,7 @@ Step 3 : Interface the ESP8266 with an ultrasonic sensor to measure the distance
 Step 4 : Upload the final code, send movement commands from a UDP terminal app, and test the car's response and automatic stop feature.
 
 
-## OUTPUT[
+## OUTPUT
 <img src="https://github.com/EmildaBabu/Robocar/blob/abdf8944550e80e52a2ba0d17d013ba3f7e18c32/Working%20_model.jpg" alt="working model" width="400" height="250">
 <img src="https://github.com/EmildaBabu/Robocar/blob/abdf8944550e80e52a2ba0d17d013ba3f7e18c32/controller.jpg" alt="working model" width="200" height="500">
 
