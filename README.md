@@ -12,3 +12,5 @@ This robotic car uses the UDP protocol for fast and efficient wireless control. 
 7. Power supply Board
 ## BLOCK DIAGRAM
 <img src="https://github.com/EmildaBabu/Robocar/blob/c759118c2dba742660804d15cc8b1e158f7b8add/projectblockdiagram.jpg?raw=true" alt="block diagram" width="300" height="200">
+## PROCEDURE
+Step 1 :Connect the ESP32 microcontroller to the Arduino 
